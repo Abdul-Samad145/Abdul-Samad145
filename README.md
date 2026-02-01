@@ -35,7 +35,7 @@ I enjoy working across the stack **without claiming mastery of everything** — 
   <img src="https://img.shields.io/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
- ⚙️ Backend
+### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
@@ -43,7 +43,7 @@ I enjoy working across the stack **without claiming mastery of everything** — 
   <img src="https://img.shields.io/badge/JWT-4B0082?style=for-the-badge"/>
 </p>
 
-🗄 Databases
+### 🗄 Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -51,7 +51,7 @@ I enjoy working across the stack **without claiming mastery of everything** — 
 
 ---
 
- 🧩 MERN Architecture View
+## 🧩 MERN Architecture View
 
 ```text
 React (UI & State)
