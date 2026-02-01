@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 I’m a **MERN Stack Developer** with a strong focus on **backend engineering**, **API design**, and **modern frontend integration**.  
-I enjoy working across the stack **without claiming mastery of everything** — instead, I aim for **depth, correctness, and scalability**.
+I enjoy working across the stack **without claiming mastery of everything**  instead, I aim for **depth, correctness, and scalability**.
 
 - 🔭 Building **production-oriented MERN applications**
 - 🌱 Strengthening **backend architecture & databases**
